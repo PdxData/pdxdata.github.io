@@ -1,3 +1,2 @@
 # pdxdata.github.io
-
-PDX Data Website
+Source code for pdxdata.org

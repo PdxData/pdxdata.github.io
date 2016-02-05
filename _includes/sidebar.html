@@ -1,0 +1,41 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <div><img src="{{ site.url }}/images/data-sci-board.png" style="max-height: 100px; max-width: 100px;"></div>
+      <h2>
+        <a href="{{ site.url }}">
+          {{ site.title }}
+        </a>
+      </h2>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      <navh><strong>Pages</strong></navh>
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      <navh><strong>Affiliated Meetups</strong></navh>
+      <a class="sidebar-nav-item" href="http://www.meetup.com/Portland-Data-Science-Group/">PDX Data Science Group</a>
+      <a class="sidebar-nav-item" href="http://www.meetup.com/Portland-Data-User-Group/">PDX Data User Group</a>
+      <a class="sidebar-nav-item" href="http://www.meetup.com/PDX-Data-Engineering/">PDX Data Engineering</a>
+    </nav>
+      <navh><strong>Our links</strong></navh>
+      <a class="sidebar-nav-item" href="https://github.com/pdxdata/pdxdata.github.io">Github</a>
+      <a class="sidebar-nav-item" href="https://pdxdata.slack.com">PDXData.Slack</a>
+  </nav>
+
+  </div>
+</div>

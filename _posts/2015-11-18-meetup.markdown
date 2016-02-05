@@ -1,0 +1,12 @@
+---
+layout: meetup
+title:  "Data Modeling with Caret"
+date:   2015-11-18
+type: meetup
+meetup: http://www.meetup.com/portland-r-user-group/events/226400619/
+---
+
+Data Modeling Workshop with the [Caret library](https://cran.rstudio.com/web/packages/caret/) in R will be led by [Kyle Joecken](https://www.linkedin.com/pub/kyle-joecken/65/343/3a4). 
+
+Slides:  http://kielejocain.github.io/how-to-caret
+

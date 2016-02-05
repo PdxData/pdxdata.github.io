@@ -1,0 +1,13 @@
+---
+layout: meetup
+title:  "Introduction to Neural Networks. Part One: Perceptron"
+date:   2016-01-26
+type: meetup
+meetup: http://www.meetup.com/Portland-Data-User-Group/events/228218401/
+---
+The first talk of the Introduction to Machine Learning and Neural Networks series will introduce the general thoughts behind machine learning and provide the foundation for the future neural network implementations by deriving a simple mathematical model of a single neuron structure called Perceptron.
+
+You will implement a Perceptron in Python and use it for predictions of iris flowers and credit card fraud. The talk will also highlight the limitations of the Perceptron model and provide an outlook of the steps towards a neural network.
+
+Slides and workbook: <a href="//github.com/hanneshapke/PDX-data-perceptron/">Introduction to Neural Networks. Part One: Perceptron </a>. Presented by <a href="hanneshapke.github.io/">Hannes</a>
+

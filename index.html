@@ -1,157 +1,36 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="PDX Data : Where Portland does data">
+<div class="home">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+  <h1 class="page-heading">News</h1>
 
-    <title>PDX Data</title>
-  </head>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% if post.author != nil %}
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }} – {{ post.author }}</span>
+        {% else %}
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% endif %}
 
-  <body>
+        <h2>
+          <span class="post-title" href="{{ post.meetup }}">{{ post.title }}</span>
+        </h2>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/PdxData">View on GitHub</a>
+        <span class="post-description">{{ post.content}}</span>
 
-          <h1 id="project_title">PDX Data</h1>
-          <h2 id="project_tagline">Where Portland does data</h2>
+        {% if post.type == 'meetup' %}
+          <div align="right">
+            <a class="meetup-link" href="{{ post.meetup }}">Go to the meetup page</a>
+          </div>
+        {% else %}
+        {% endif %}
 
-        </header>
-    </div>
+        <span class="post-separater"> <hr> </span>
+      </li>
+    {% endfor %}
+  </ul>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a id="welcome-to-pdx-data" class="anchor" href="#welcome-to-pdx-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to PDX Data</h3>
-
-<p>We're all about openness. So links to all the talks (and data!) are listed below. If you don't see it here checkout one of our ancestor meetups:</p>
-
-<ul>
-  <li><a href="http://www.meetup.com/Portland-Data-Science-Group/">Portland Data Science Group</a>
-  <li><a href="http://www.meetup.com/Portland-Data-User-Group/">Portland Data User Group</a>
-  <li><a href="http://www.meetup.com/PDX-Data-Engineering/">PDX Data Engineering</a>
-</ul>
-
-<h3>
-  <a id="talks" class="anchor" href="#talks" aria-hidden="true"><span class="octicon octicon-link"></span></a>Talks
-</h3>
-
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Speaker</th>
-    <th>Slides/Material</th>
-    <th>Data</th>
-    <th>Code</th>
-  </tr>
-  <tr>
-    <td>Feb 23, 2016</td>
-    <td><a href="https://www.linkedin.com/in/poul-petersen-9b236b">Poul Petersen</a></td>
-    <td>Machine Learning in the Cloud</td>
-    <td></td>
-    <td></td>
-  <tr>
-  <tr>
-    <td>Jan 26, 2016</td>
-    <td><a href="hanneshapke.github.io/">Hannes</a></td>
-    <td><a href="//github.com/hanneshapke/PDX-data-perceptron/">Introduction to Neural Networks. Part One: Perceptron </a></td>
-    <td></td>
-    <td><a href="//github.com/hanneshapke/PDX-data-perceptron/">GitHub Repo</a></td>
-  <tr>
-    <td>2015</td>
-    <td><a href="https://github.com/wrobstory">Rob Story</a></td>
-    <td><a href="https://github.com/wrobstory/pdxdatasci2014">"Python Data Visualization, What now?"</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2015</td>
-    <td><a href="https://github.com/hobson">Hobson Lane</a></td>
-    <td><a href="//hobsonlane.com/talks">neural nets</a></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-<h3>
-<a id="datasets" class="anchor" href="#datasets" aria-hidden="true"><span class="octicon octicon-link"></span></a>Datasets</h3>
-</h3>
-
-<table>
-  <tr>
-    <th>Source</th>
-    <th>Description</th>
-    <th>Link</th>
-    <th>Contributor</th>
-  </tr><tr>
-    <td>UCI</td>
-    <td>UC Irvine Machine Learning datasets: shellfish size vs. weight, income vs. demographics</td>
-    <td><a href="https://archive.ics.uci.edu/ml/datasets.html/">Search for Datasets</a></td>
-    <td><a href="//github.com/hanneshapke/">Hannes</a></td>
-  </tr><tr>
-    <td>Criteo</td>
-    <td>Anonymized web click logs similar to prior Kaggle competition</td>
-    <td><a href="http://labs.criteo.com/downloads/download-terabyte-click-logs/">23 files, ~1 TB</a></td>
-    <td><a href="//hobsonlane.com"></a>Hobs</a></td>
-  </tr><tr>
-    <td>Yahoo</td>
-    <td>Anonymized web click logs (request access with e-mail from .edu TLD)</td>
-    <td><a href="https://webscope.sandbox.yahoo.com/">Register with your .edu e-mail address</a></td>
-    <td><a href="//www.hobsonlane.com"></a>Hobs</a></td>
-  </tr>
-</table>
-
-<h3>
-<a id="resources" class="anchor" href="#resources" aria-hidden="true"><span class="octicon octicon-link"></span></a>Resources</h3>
-
-Send us your favorite tutorials, classes, hackathons, etc, and we'll list them here.
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Description</th>
-  </tr><tr>
-    <td><a href="https://www.codecademy.com/learn/python">Intro to Python Course</a></td>
-    <td>A free e-course to get the absolute beginner started with Python.</td>
-  </tr><tr>
-    <td><a href="https://www.udacity.com/course/deep-learning--ud730">Google Deep Learning Course</a></td>
-    <td>A free e-course hosted on UDACITY for Deep Learning taught by a Principal Research Scientist at Google</td>
-  </tr><tr>
-    <td><a href="http://www.hackoregon.org/hack-university/">Hack University</a></td>
-    <td>A nonprofit code school for people that want to contribute to a team of data hackers dedicated to doing social good</td>
-  </tr><tr>
-    <td><a href="//hackoregon.org">Hack Oregon</a></td>
-    <td>A nonprofit dedicated to making public data public and useful</td>
-  </tr>
-</table>
-
-
-<h3>
-<a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contributors</h3>
-
-John (<a href="https://github.com/smithjd" class="user-mention">@smithjd</a>)<br>
-Hobson (<a href="https://github.com/hobson" class="user-mention">@hobson</a>)<br>
-Grimm (<a href="https://github.com/thegrimmscientist" class="user-mention">@thegrimmscientist</a>)<br>
-
-<h3>
-<a id="more-info" class="anchor" href="#more-info" aria-hidden="true"><span class="octicon octicon-link"></span></a>More Info</h3>
-
-<p><a href="mailto:pdxdatascience@gmail.com">Email us</a></p>
-      </section>
-    </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-  </body>
-</html>
+</div>

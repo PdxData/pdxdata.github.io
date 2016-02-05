@@ -1,0 +1,21 @@
+---
+layout: meetup
+title:  "CUSUM Anomaly Detection (CAD) -- A novel anomaly detection algorithm"
+date:   2015-12-15
+type: meetup
+meetup: http://www.meetup.com/Portland-Data-Science-Group/events/226361104/
+---
+
+http://www.slideshare.net/kingakatalinka/cad-cusum-anomaly-detection
+
+Co-hosted with the Portland Data User Meetup Group.
+
+Brief description of the topic:
+
+CAD is an anomaly detection method developed for time series of network traffic flow measurements.&nbsp; CAD searches for anomalous subsequences of internet performance variable (download throughput, packet retransmit rate, round trip time) time series that are indicators of internet performance degradation. &nbsp;
+
+CAD was developed and implemented during a 3 month long Outreachy Internship at M-Lab.&nbsp; CAD is written in R.
+
+The aim of this talk is to explain the main ideas behind CAD and to illustrate how it works via some real life examples.
+
+Talk given by Kinga Farkas.

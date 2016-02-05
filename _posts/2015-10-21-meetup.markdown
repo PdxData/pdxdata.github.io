@@ -1,0 +1,13 @@
+---
+layout: meetup
+title:  "Text Mining Meets Neural Nets: Mining the Bio-medical Literature"
+date:   2015-10-21
+type: meetup
+meetup: http://www.meetup.com/Portland-Data-User-Group/events/225221023/
+---
+
+Text mining and natural language processing employs a range of techniques from syntactic parsering, statistical analysis, and more recently deep learning. Dan Sullivan will present on recent advances in dense word representations, also known as word embedding, and their advantages over sparse representations, such as the popular term frequency-inverse document frequency (tf-idf) approach. He will also discuss convolutional neural networks, a form of deep learning that is proving surprisingly effective in natural language processing tasks. Dan will also suggest reference papers and tools for those interested in further details.  Examples will be drawn from the bio-medical domain. 
+
+Slides:  http://www.slideshare.net/mobile/DanSullivan10/text-mining-meets-neural-nets
+
+Presented by [Dan Sullivan](https://www.linkedin.com/in/dansullivanpdx), Enterprise Architect at Cambia Health Solutions. 

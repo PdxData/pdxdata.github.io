@@ -1,0 +1,24 @@
+---
+layout: meetup
+title:  "Hacking Oregon's Hidden Political Connections"
+date:   2015-10-27
+type: meetup
+meetup: http://www.meetup.com/Portland-Data-User-Group/events/225876124/
+---
+[Hobson Lane](https://www.linkedin.com/in/hobsonlane) will be doing a case study on recent work done on Hack Oregon's Campaign Finance project.
+
+He'll walk through several things:
+
+* Using python sets and pandas to find relationships between database tables, between politicians and the Ashley Madison dump, and between political action committees that you'd never imagine would support each other. 
+* Using sklearn and TFIDF to compare committee descriptions. 
+
+* Using d3 force-directed graphs to do interactive visualization and clustering on that network of connections. 
+
+Data: http://totalgood.github.io/hackor
+Python: http://github.com/totalgood/hackor/
+Javascript: http://hobsonlane.com/pug/pug/miner/static/pac_nlp_force_graph.html
+Site: http://behindthecurtain.HackOregon.com (way to go Ken Whaler and Sam Higgins!)
+Hack Oregon: http://hackoregon.com (way to go Cat and Portland volunteer spirit!)
+Slides: http://hobsonlane.com/talks
+RFP: http://totalgood.com/blog/invitation-for-machine-intelligence-grant-proposals-winter-2016/ 
+ 

@@ -1,0 +1,11 @@
+# Site settings
+title: PDX Data Science
+email: pdxdatascience@gmail.com
+description:  Open Meetups and more
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pdxdata.github.io" # the base hostname & protocol for your site
+github_username:  pdxdata
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
