@@ -1,2 +1,2 @@
 # pdxdata.github.io
-Source code for pdxdata.org
+Source code for http://pdxdata.org
