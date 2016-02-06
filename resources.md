@@ -22,6 +22,9 @@ Send us your favorite tutorials, classes, hackathons, etc, and we'll list them h
   </tr><tr>
     <td><a href="//hackoregon.org">Hack Oregon</a></td>
     <td>A nonprofit dedicated to making public data public and useful</td>
+  </tr><tr>
+    <td><a href="//gist.github.com/vors/bd585fc6e3d027804f80">Automated Slack Invite Gist</a></td>
+    <td>Code to automate Slack invitations.</td>
   </tr>
 </table>
 
