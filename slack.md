@@ -4,7 +4,7 @@ title: Slack
 permalink: /slack/
 ---
 
-We use [our Slack](pdxdata.slack.com) space for two purposes:
+We use [our Slack](//pdxdata.slack.com) space for two purposes:
 
 * To chat during hack sessions (ask questions or share tips with the whole group)
 * To keep track of questions during formal presentations
