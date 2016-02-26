@@ -1,0 +1,23 @@
+---
+layout: meetup
+title:  "Application of analytics for optimizing wireless plans for IoT devices"
+date:   2016-02-16
+type: meetup
+meetup: http://www.meetup.com/portland-r-user-group/events/228542752/
+---
+Satish Doguparthy talked about analytics using R for optimizing tens of thousands of wireless plans for Internet of Things devices.  
+
+Opportunities are in Plain Sight… the challenge is Business Engagement and Justification …
+
+* The more you look at the data, the more insights you find
+* It’s not easy to make people believe you; it takes time to engage with business partners
+* Interactive analytics products (e.g., Shiny apps) are more useful than sharing static charts
+* more time goes into data gathering, data cleaning and understanding the data than into analysis
+* Important to change the mindset around data analysis
+** from: we take the order from our business partners and deliver
+** to: we explore the possibilities and insights with our partners
+
+https://www.linkedin.com/in/satishdoguparthy
+https://plus.google.com/+SatishDoguparthy/posts
+
+
