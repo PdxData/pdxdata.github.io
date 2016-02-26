@@ -8,8 +8,10 @@ meetup: http://www.meetup.com/Portland-Data-User-Group/events/228419323/
 
 Corvallis, OR based BigML team has been working for the past four years to democratize machine learning in the cloud – making it more consumable, programmable, and scalable. The net result is an intuitive platform that can be leveraged equally by business analysts, developers and data scientists who are eager to perform a variety of predictive analytics and machine learning tasks.
 
-In this session, [Poul Petersen](https://www.linkedin.com/in/poul-petersen-9b236b), Chief Infrastructure Officer at BigML (MLSaas company), will talk about machine learning in the cloud (basics of decision trees, ensembles, association, anomaly, clustering) and how past is predicting the future and is now easier and more accessible than ever thanks to converging trends of open source technologies, cloud-based computing and a growing ‘big data' imperative.
+In this session, [Poul Petersen](https://www.linkedin.com/in/poul-petersen-9b236b), Chief Infrastructure Officer at BigML (MLSaas company), talked about machine learning in the cloud (basics of decision trees, ensembles, association, anomaly, clustering) and how past is predicting the future and is now easier and more accessible than ever thanks to converging trends of open source technologies, cloud-based computing and a growing ‘big data' imperative.
 
-https://bigml.com/training#resources
-http://www.alleft.com/
-https://twitter.com/pejpgrep (all of 2 tweets since 2011)
+Some resources include:
+
+* https://bigml.com/training#resources
+* http://www.alleft.com/
+* https://twitter.com/pejpgrep (all of 2 tweets since 2011)
