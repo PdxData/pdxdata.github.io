@@ -14,11 +14,13 @@ He'll walk through several things:
 
 * Using d3 force-directed graphs to do interactive visualization and clustering on that network of connections. 
 
-Data: http://totalgood.github.io/hackor
-Python: http://github.com/totalgood/hackor/
-Javascript: http://hobsonlane.com/pug/pug/miner/static/pac_nlp_force_graph.html
-Site: http://behindthecurtain.HackOregon.com (way to go Ken Whaler and Sam Higgins!)
-Hack Oregon: http://hackoregon.com (way to go Cat and Portland volunteer spirit!)
-Slides: http://hobsonlane.com/talks
-RFP: http://totalgood.com/blog/invitation-for-machine-intelligence-grant-proposals-winter-2016/ 
+## Resources:
+
+[Data](http://totalgood.github.io/hackor)
+[Python](http://github.com/totalgood/hackor/)
+[Javascript](http://hobsonlane.com/pug/pug/miner/static/pac_nlp_force_graph.html)
+[Site](http://behindthecurtain.HackOregon.com) (way to go Ken Whaler and Sam Higgins!)
+[Hack Oregon](http://hackoregon.com) (way to go Cat and Portland volunteer spirit!)
+[Slides](http://hobsonlane.com/talks)
+[RFP](http://totalgood.com/blog/invitation-for-machine-intelligence-grant-proposals-winter-2016/) 
  

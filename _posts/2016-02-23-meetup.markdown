@@ -12,6 +12,6 @@ In this session, [Poul Petersen](https://www.linkedin.com/in/poul-petersen-9b236
 
 Some resources include:
 
-* https://bigml.com/training#resources
-* http://www.alleft.com/
-* https://twitter.com/pejpgrep (all of 2 tweets since 2011)
+* [BigML training resources](https://bigml.com/training#resources) 
+* [Poul's blog](http://www.alleft.com/ )
+* [Poul's 2 tweets](https://twitter.com/pejpgrep)

@@ -6,7 +6,7 @@ type: meetup
 meetup: http://www.meetup.com/Portland-Data-Science-Group/events/226361104/
 ---
 
-http://www.slideshare.net/kingakatalinka/cad-cusum-anomaly-detection
+[Slides](http://www.slideshare.net/kingakatalinka/cad-cusum-anomaly-detection)
 
 Co-hosted with the Portland Data User Meetup Group.
 
