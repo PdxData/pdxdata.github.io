@@ -1,0 +1,16 @@
+---
+layout: meetup
+title:  "R at Microsoft and R in Visual Studio"
+date:   2016-03-24
+type: meetup
+meetup: http://www.meetup.com/Portland-Data-User-Group/events/228419323/
+---
+
+We'll have two talks from Microsoft/Revolution Analytics: 
+
+- [Joseph Rickert](https://twitter.com/RevoJoe) on R at Microsoft 
+- [John Lam](https://twitter.com/john_lam) on A Lap Around R Tools for Visual Studio
+
+Doors open ~6 pm, talks start at 6:30 pm
+
+Doors are open at bottom, take elevator to 3rd floor, door should be open for suite 320

@@ -1,0 +1,9 @@
+---
+layout: meetup
+title:  "Collaborative coding with GitHub and RStudio server"
+date:   2016-05-09
+type: meetup
+meetup: http://www.meetup.com/Portland-Data-User-Group/events/228419323/
+---
+
+[Andrew Bray](http://andrewpbray.github.io/) will discuss Collaborative coding with GitHub and RStudio server. He's in the faculty at Reed College here in Portland.  
