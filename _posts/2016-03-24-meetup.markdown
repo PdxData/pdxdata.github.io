@@ -1,7 +1,7 @@
 ---
 layout: meetup
-title:  "R at Microsoft and R in Visual Studio"
-date:   2016-03-24
+title: "R at Microsoft and R in Visual Studio"
+date: 2016-03-24
 type: meetup
 meetup: http://www.meetup.com/Portland-Data-User-Group/events/228419323/
 ---
