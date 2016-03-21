@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title:  "Data Engineering Architecture at Simple with Rob Story"
+title:  "TBA: Deeplearning4j?"
 date:   2016-04-26
 type: meetup
 meetup: http://www.meetup.com/Portland-Data-User-Group/events/
