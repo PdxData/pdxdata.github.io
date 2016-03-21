@@ -1,16 +1,17 @@
 ---
 layout: meetup
-title:  "R at Microsoft and R in Visual Studio"
-date:   2016-03-24
+title:  "Data Engineering Architecture at Simple with Rob Story"
+date:   2016-03-29
 type: meetup
-meetup: http://www.meetup.com/Portland-Data-User-Group/events/228419323/
+meetup: http://www.meetup.com/Portland-Data-User-Group/events/229249381/
 ---
 
-We'll have two talks from Microsoft/Revolution Analytics: 
+Speaker: Rob Story
 
-- [Joseph Rickert](https://twitter.com/RevoJoe) on R at Microsoft 
-- [John Lam](https://twitter.com/john_lam) on A Lap Around R Tools for Visual Studio
+Abstract: Simple's Data Engineering team has spent the past year and a half building data pipelines to enable the customer service, marketing, finance, and leadership teams to make data-driven decisions.
 
-Doors open ~6 pm, talks start at 6:30 pm
+We'll walk through why the data team chose certain open source tools, including Kafka, RabbitMQ, Postgres, Celery, and Elasticsearch. We'll also discuss the advantages to using Amazon Redshift for data warehousing and some of the lessons learned operating it in production.
 
-Doors are open at bottom, take elevator to 3rd floor, door should be open for suite 320
+Finally, we'll touch on the team's choices for the languages used in the data engineering stack, including Scala, Java, Clojure, and Python.
+
+About the Speaker: Rob is a Data Engineer at Simple in Portland, OR. Once upon a time he was a Python developer, but now he spends most of his time reading the docs for JVM command line arguments and writing Clojure whenever possible.
