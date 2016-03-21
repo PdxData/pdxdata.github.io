@@ -9,4 +9,4 @@ github_username:  pdxdata
 # Build settings
 markdown: kramdown
 highlighter: rouge
---future
+future: true
