@@ -6,7 +6,7 @@ type: meetup
 meetup: http://www.meetup.com/Portland-Data-User-Group/events/229249381/
 ---
 
-Speaker: Rob Story
+Speaker: [Rob Story](https://twitter.com/oceankidbilly)
 
 Abstract: Simple's Data Engineering team has spent the past year and a half building data pipelines to enable the customer service, marketing, finance, and leadership teams to make data-driven decisions.
 
@@ -15,3 +15,5 @@ We'll walk through why the data team chose certain open source tools, including 
 Finally, we'll touch on the team's choices for the languages used in the data engineering stack, including Scala, Java, Clojure, and Python.
 
 About the Speaker: Rob is a Data Engineer at Simple in Portland, OR. Once upon a time he was a Python developer, but now he spends most of his time reading the docs for JVM command line arguments and writing Clojure whenever possible.
+
+Blog post about [Building Analytics at Simple](https://www.simple.com/engineering/building-analytics-at-simple)
