@@ -10,3 +10,5 @@ Two talks from Microsoft/Revolution Analytics:
 
 * [Joseph Rickert](https://twitter.com/RevoJoe) on R at Microsoft 
 * [John Lam](https://twitter.com/john_lam) on A Lap Around R Tools for Visual Studio
+
+Slides for [Joseph's talk](http://files.meetup.com/1685557/R%20at%20Microsoft_Portland_RUG.pptx)
