@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title:  "NLP meets Politics-Experiment­s w/ Word-Vectors and 2016 Campaign Debate Rhetoric"
+title:  "Unsupervised Politics, Machine Learning & R"
 date:   2016-04-05
 type: meetup
 meetup: http://www.meetup.com/portland-r-user-group/events/229130207/
@@ -8,15 +8,15 @@ meetup: http://www.meetup.com/portland-r-user-group/events/229130207/
 
 Speaker: Winston Saunders
 
-Abstract: Word vectors, derived by deep learning algorithms applied to billions of words of text, provide powerful semantic models of language. Code in R, demonstrating [queen] + [man] - [woman] ~ [King] to about 90% accuracy will be reviewed. Building first on exploratory "bag of words" analysis of Presidential debate texts, we'll explore, using pre-computed GloVe vectors (Pennington et al http://nlp.stanford.edu/projects/glove/), relationships like [sanders] + [trump] - [clinton] ~ [cruz] and how candidate positions align to rhetorical sentiment like [government] + [people] - [tax]. This analysis is work in progress. We'll also test empirical limits (aka failed experiments). 
+Abstract: Word vectors, derived by deep learning algorithms applied to billions of words of text, provide powerful semantic models of language. Code in R, demonstrating [queen] + [man] - [woman] ~ [King] to about 90% accuracy will be reviewed. Building first on exploratory "bag of words" analysis of Presidential debate texts, we'll explore, using pre-computed GloVe vectors (Pennington et al [https://github.com/ww44ss/Presidential_Debates_2015](https://github.com/ww44ss/Presidential_Debates_2015)), relationships like [sanders] + [trump] - [clinton] ~ [cruz] and how candidate positions align to rhetorical sentiment like [government] + [people] - [tax]. This analysis is work in progress. We'll also test empirical limits (aka failed experiments). 
 
 Here are the
 
-1. Slides from talk: https://github.com/tactical-Data/SlidesPDXDataScienceApril2016
+1. Slides from talk: [https://github.com/tactical-Data/SlidesPDXDataScienceApril2016](https://github.com/tactical-Data/SlidesPDXDataScienceApril2016)
 
-2. Candidate Heat Map: https://github.com/tactical-Data/CandidateSpeechHeatMap
+2. Candidate Heat Map: [https://github.com/tactical-Data/CandidateSpeechHeatMap](https://github.com/tactical-Data/CandidateSpeechHeatMap)
 
-3. Canonical Word Vectors: https://github.com/tactical-Data/CanonicalWordVectorExamples
+3. Canonical Word Vectors: [https://github.com/tactical-Data/CanonicalWordVectorExamples](https://github.com/tactical-Data/CanonicalWordVectorExamples)
 
-The word vectors files are huge and you'll need to download manually if you want to experiment. Word vectors and presidential debates is still experimental and you can find it in this boneyard repo: https://github.com/ww44ss/Presidential_Debates_2015
+The word vectors files are huge and you'll need to download manually if you want to experiment. Word vectors and presidential debates is still experimental and you can find it in this boneyard repo: [https://github.com/ww44ss/Presidential_Debates_2015](https://github.com/ww44ss/Presidential_Debates_2015)
 
