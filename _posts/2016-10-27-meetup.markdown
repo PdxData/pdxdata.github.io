@@ -1,0 +1,33 @@
+---
+layout: meetup
+title:  "The Foibles of Organizational Data Management"
+date:   2016-10-27
+type: meetup
+meetup: http://www.meetup.com/Portland-Data-Science-Group/events/234491731/comments/471980663/
+---
+
+Real-world business data systems are often a mess. With customer and other data spread across multiple silos and complex technology stacks, it can be very difficult to get a complete picture of how data can fulfill the needs an organization has. With different teams (IT, marketing, executives, etc.) having divergent needs, it can get even messier. Tonight we are going to talk about some of the foibles faced by organizations, and ways to overcome them.
+
+Bio: Lars serves as the Customer Data and Insights Lead for Connective DX (formerly ISITE Design), a Portland-based digital experience agency. With over a decade’s experience generating actionable insights from interesting data, he manages the development of customer-centric data and analytics measurement strategies for a variety of organization. Lars’s experience spans B2B and B2C, while working with clients including Honda, Autodesk, Coca Cola, Kraft, Xerox, OHSU and Wharton School of Business.
+
+Connect with Lars:
+
+* LinkedIn: linkedin.com/in/larsvons 
+
+* Twitter: twitter.com/larsvons 
+
+* Company: ConnectiveDX.com 
+
+Background reading:
+
+* https://www.connectivedx.com/thinking/posts/2016/05/customer-data-management-challenges 
+
+* https://www.connectivedx.com/thinking/posts/2015/11/customer-data-platforms 
+
+* https://www.connectivedx.com/thinking/posts/2015/06/closing-customer-data-gap  
+
+* https://www.connectivedx.com/thinking/posts/2016/08/tag-management-system-pitfalls  *  
+
+[Slides](http://www.slideshare.net/LarsvonSneidern/four-short-foibles-of-organizational-data)
+
+Presented by [Lars von Sneidern](https://linkedin.com/in/larsvons), Customer Data and Insights Lead for Connective DX
