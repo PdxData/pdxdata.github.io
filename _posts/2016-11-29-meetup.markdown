@@ -1,0 +1,24 @@
+---
+layout: meetup
+title:  "Object Oriented Data Science in Python"
+date:   2016-10-27
+type: meetup
+meetup: https://www.meetup.com/Portland-Data-Science-Group/events/235631200/
+---
+
+A lot of focus in the data science community is on reducing the complexity and time involved in data gathering, cleaning, and organization. In this talk Sev Leonard will discuss how object oriented design techniques from software engineering can be used to reduce coding overhead and create robust, reusable data acquisition and cleaning systems. Sev will provide an overview of object oriented design and walk through an example of using these techniques for getting and cleaning data from a web API in Python. You can find the Jupyter Notebook for this talk on Github. This talk is based on Sev's recent [ODSC article](https://www.opendatascience.com/blog/an-introduction-to-object-oriented-data-science-in-python/).
+
+For a more in depth treatment of the subject see Sev's tutorial on object oriented data pipelines from PyCon 2016 on [YouTube](https://www.youtube.com/watch?v=n4VLLQXF_9Y) and [GitHub](https://github.com/gizm00/pycon2016)
+
+If you want to run the sample notebook you'll need to setup a config.py with an API key for RIDB which you can get at:
+https://ridb.recreation.gov/?action=register
+
+repo: https://github.com/gizm00/blog_code/tree/master/odsc/intro_oods
+
+Bio: 
+Sev Leonard is a Python developer and sciencer of data, as a consultant, writer, and trainer. He's been working with data for 10+ years in high volume circuit design, targeted advertising, and data-driven product development.
+
+Connect: 
+[The Data Scout (Sev's company)](http://www.thedatascout.com/)
+[Twitter](http://www.twitter.com/gizm0_0)
+[LinkedIn](https://www.linkedin.com/in/jsevleonard)
