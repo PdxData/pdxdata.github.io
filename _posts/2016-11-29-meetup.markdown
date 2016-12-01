@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title:  "Object Oriented Data Science in Python"
-date:   2016-10-27
+date:   2016-11-29
 type: meetup
 meetup: https://www.meetup.com/Portland-Data-Science-Group/events/235631200/
 ---
