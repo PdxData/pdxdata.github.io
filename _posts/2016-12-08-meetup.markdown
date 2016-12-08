@@ -15,8 +15,8 @@ Speakers:
 • Winston Saunders [@winstononenergy](http://twitter.com/winstononenergy)  - [intro to Shiny](https://github.com/ww44ss/pdxdata_shiny/blob/master/PDX%20Data%20Shiny%20Intro.pdf
 )
 
-• Jessica Minnier [http://twitter.com/datapointier](@datapointier) - speaking on [https://kcvi.shinyapps.io/START/](https://kcvi.shinyapps.io/START/) [Slides](https://rpubs.com/minnier/rmeetup-start)
+• Jessica Minnier [@datapointier](http://twitter.com/datapointier) - speaking on [https://kcvi.shinyapps.io/START/](https://kcvi.shinyapps.io/START/) -  [Slides](https://rpubs.com/minnier/rmeetup-start)
 
 • Kinga Farkas - [CUSUM Anomaly Detection App Using Shiny](https://github.com/kinga-k-farkas/CAD-web-app)
 
-• John Smith [@smithjd](http://twitter.com/smithjd) - [Rise and shine.  Shiny as an everyday too)](https://github.com/smithjd/shiny16) 
+• John Smith [@smithjd](http://twitter.com/smithjd) - [Rise and shine.  Shiny as an everyday tool](https://github.com/smithjd/shiny16) 
