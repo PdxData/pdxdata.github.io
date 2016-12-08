@@ -1,0 +1,22 @@
+---
+layout: meetup
+title:  "shiny night: tutorial and use cases"
+date:   2016-12-07
+type: meetup
+meetup: https://www.meetup.com/portland-r-user-group/events/235649828/
+---
+
+Let's have a Shiny night! If you're not familiar with Shiny, check it out at [http://shiny.rstudio.com](http://shiny.rstudio.com) - Shiny is a web application framework for R. Many people use Shiny to convey business/research/etc. findings to collaborators/bosses/etc. without needing the person to be able to code. Checkout [https://shiny.rstudio.com/gallery](https://shiny.rstudio.com/gallery) to see some really cool examples. 
+
+We're going to have a brief tutorial for those that haven't used Shiny, as well as some Shiny use cases to see what you can do with Shiny in the real world.
+
+Speakers: 
+
+• Winston Saunders [@winstononenergy](http://twitter.com/winstononenergy)  - [intro to Shiny](https://github.com/ww44ss/pdxdata_shiny/blob/master/PDX%20Data%20Shiny%20Intro.pdf
+)
+
+• Jessica Minnier [http://twitter.com/datapointier](@datapointier) - speaking on [https://kcvi.shinyapps.io/START/](https://kcvi.shinyapps.io/START/) [Slides](https://rpubs.com/minnier/rmeetup-start)
+
+• Kinga Farkas - [CUSUM Anomaly Detection App Using Shiny](https://github.com/kinga-k-farkas/CAD-web-app)
+
+• John Smith [@smithjd](http://twitter.com/smithjd) - [Rise and shine.  Shiny as an everyday too)](https://github.com/smithjd/shiny16) 
