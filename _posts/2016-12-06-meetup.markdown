@@ -1,0 +1,30 @@
+---
+layout: meetup
+title:  "Data Dogs - The cycle of Data"
+date:   2016-12-06
+type: meetup
+meetup: https://www.meetup.com/Portland-Data-Science-Group/events/235869657/
+---
+
+Our discussions will be targeted around four distinct areas of the data cycle:
+
+Cycle 1: Data Origins – Sources, generation and ownership
+
+C2: Data Growth – Science, assembly and storage
+
+C3: Data Maturity – Appeal, wisdom and power
+
+C4: Data Destruction – Burial, deletion and ceremony
+
+While prior attendance is not required to participate, please watch or read a link of interest below:
+
+1. [The Point of Collection](https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa#.5jwz38ry1)
+
+2. [The Illusion of Agency](https://petervan.wordpress.com/2016/09/17/the-illusion-of-agency/)
+
+3. [Origin problems at Google](http://gking.harvard.edu/files/gking/files/0314policyforumff.pdfhttps://www.youtube.com/watch?v=XVMYTplQ158)
+
+4. [Stories VS Statistics](https://www.youtube.com/watch?v=XVMYTplQ158)
+
+5. [Random or Systematic Error?](http://www.socialresearchmethods.net/kb/measerr.php)
+
