@@ -17,6 +17,6 @@ Speakers:
 
 • Jessica Minnier [@datapointier](http://twitter.com/datapointier) - speaking on [https://kcvi.shinyapps.io/START/](https://kcvi.shinyapps.io/START/) -  [Slides](https://rpubs.com/minnier/rmeetup-start)
 
-• Kinga Farkas - [CUSUM Anomaly Detection App Using Shiny](https://github.com/kinga-k-farkas/CAD-web-app)
+• Kinga Farkas - [Presentation slides](https://github.com/kinga-k-farkas/Shiny-CAD-Talk) [CUSUM Anomaly Detection App Using Shiny](https://github.com/kinga-k-farkas/CAD-web-app)
 
 • John Smith [@smithjd](http://twitter.com/smithjd) - [Rise and shine.  Shiny as an everyday tool](https://github.com/smithjd/shiny16) 
