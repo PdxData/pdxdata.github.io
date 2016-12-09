@@ -1,7 +1,7 @@
 ---
 layout: meetup
 title:  "Data Dogs - The cycle of Data"
-date:   2016-12-06
+date:   2016-12-05
 type: meetup
 meetup: https://www.meetup.com/Portland-Data-Science-Group/events/235869657/
 ---
@@ -15,6 +15,8 @@ C2: Data Growth – Science, assembly and storage
 C3: Data Maturity – Appeal, wisdom and power
 
 C4: Data Destruction – Burial, deletion and ceremony
+
+Here is our [Handout](handouts/DD-data-origins-2016-12-05.pdf)
 
 While prior attendance is not required to participate, please watch or read a link of interest below:
 
