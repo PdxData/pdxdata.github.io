@@ -13,3 +13,4 @@ About the presenter:
 Merlyn is an experienced software engineer working at New Relic. He studied machine learning in Berlin where he also worked as a research assistant on SVMs. He's particularly keen on reinforcement learning and on implementing AIs that compete in simulated environments. Merlyn regularly does "(ML katas)[https://github.com/curious-attempt-bunny/ml-katas]" with folks inside and outside of work—which you're welcome to join. He also always has a side project going that he'll gladly discuss with you.
 
 * (Slides)[https://github.com/curious-attempt-bunny/ml-talks/blob/master/item-item%20collaborative%20filtering.ipynb]
+
