@@ -16,6 +16,7 @@ The current members of this Meetup Consortium are:
 * [Portland Data](http://www.meetup.com/Portland-Data/)
 * [Portland Data User Group](http://www.meetup.com/Portland-Data-User-Group/)
 * [PDX Data Engineering](http://www.meetup.com/PDX-Data-Engineering/)
+* [PDX MarTech](https://www.meetup.com/MarTech-PDX-Marketing-Technology-Group/)
 * [Portland R user Group](http://www.meetup.com/portland-r-user-group/)
 
 {{ site.sponsor }}
