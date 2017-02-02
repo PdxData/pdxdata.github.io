@@ -6,6 +6,6 @@ type: meetup
 meetup: https://www.meetup.com/Portland-Data-Science-Group/events/235631408/
 ---
 
-We are trying to organize a career fair for PDX Data Science.  As a first step we are trying to ascertain whether or not there are enough people interested in attending such an event and so we are asking  people to fill out this [https://goo.gl/forms/GachZMENgEpdQrrk1](two minute survey).
+We are trying to organize a career fair for PDX Data Science.  As a first step we are trying to ascertain whether or not there are enough people interested in attending such an event and so we are asking  people to fill out this [[two minute survey]](https://goo.gl/forms/GachZMENgEpdQrrk1).
 
 Additional information about the Career Fair will be available on [http://pdxdata.org](http://pdxdata.org) and on the [#careerfair](https://pdxdata.slack.com/messages/careerfair/details/) channel on Slack. If you have not done so before, you are welcome to join our Slack team, PdxData,  by inviting yourself here: [http://pdxdata.org/slack](http://pdxdata.org/slack)
