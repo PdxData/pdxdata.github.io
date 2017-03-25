@@ -19,5 +19,6 @@ The current members of this Meetup Consortium are:
 * [PDX MarTech](https://www.meetup.com/MarTech-PDX-Marketing-Technology-Group/)
 * [Portland R user Group](http://www.meetup.com/portland-r-user-group/)
 * [PDX Data Viz](http://www.meetup.com/PDX-Data-Visualization/)
+* [Women Who Code](http://www.meetup.com/Women-Who-Code-Portland/)
 
 {{ site.sponsor }}
