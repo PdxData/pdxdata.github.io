@@ -8,7 +8,7 @@ target: http://pdxdata.github.io/about
 Welcome to PDX Data Science
 ===========
 
-We're about data and openness. We are a consortium of independnet Meetups that are part of the larger data science conversation in Portland. This site collects links to all the talks (and data!) from recent events and helps you connect to the conversation.
+We're about data and openness. We are a consortium of independent Meetups that are part of the larger data science conversation in Portland. This site collects links to all the talks (and data!) from recent events and helps you connect to the conversation.
 
 The current members of this Meetup Consortium are:
 
