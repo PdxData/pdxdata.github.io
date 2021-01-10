@@ -1,6 +1,7 @@
 # pdxdata.org webpage
 
-[PyData PDX meetup](https://www.meetup.com/PyData-PDX/) blog. You can also find us on [slack](pdxdata.slack.com).
+This is the webapp for the [PyData PDX meetup](https://www.meetup.com/PyData-PDX/). 
+You can also find us on [slack](pdxdata.slack.com).
 
 ## Directory structure
 
