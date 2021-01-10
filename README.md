@@ -1,9 +1,6 @@
-# Readme
-This is the readme for the http://pdxdata.org which is modeled after the [Ann Arbor R User Group webpage](annarborrusergroup.github.io) repository.
+# pdxdata.org webpage
 
-The site is built using [Jekyll](http://jekyllrb.com/) and hosted using [GitHub Pages](https://pages.github.com).
-
-Jekyll is a static site generator. It takes raw text files (e.g. Markdown), applies a template elements (e.g. custom CSS), and returns a ready-to-publish website. Getting started with Jekyll is easy, see the [quick-start guide](http://jekyllrb.com/docs/quickstart/).
+[PyData PDX meetup](https://www.meetup.com/PyData-PDX/) blog. You can also find us on [slack](pdxdata.slack.com).
 
 ## Directory structure
 
@@ -37,3 +34,11 @@ Try to follow these pro tips from the [GitHub Pages guide](https://guides.github
 * **It’s best to test.** Run your changes against any existing tests if they exist and create new ones when needed. Whether tests exist or not, make sure your changes don’t break the existing project.
 * **Include screenshots** of the before and after if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
 * **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+
+# Thank you
+
+Thank you to the Ann Arbor R User Group whose [webpage](annarborrusergroup.github.io) we shamelessly copied.
+
+The site is built using [Jekyll](http://jekyllrb.com/) and hosted using [GitHub Pages](https://pages.github.com).
+
+Jekyll is a static site generator. It takes raw text files (e.g. Markdown), applies a template elements (e.g. custom CSS), and returns a ready-to-publish website. Getting started with Jekyll is easy, see the [quick-start guide](http://jekyllrb.com/docs/quickstart/).
